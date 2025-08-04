@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdimiGoster</string>
+    <string name="edittext">Adınızı ve Soyadınızı Giriniz</string>
+    <string name="button1">Adımı Göster</string>
+    <string name="textView">...</string>
+
+</resources>

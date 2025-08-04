@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#75B09C</color>
+    <color name="light_blue">#03A9F4</color>
+    <color name="pink_button">#555246</color>
+    <color name="Arka_plan">#E0BE36</color>
+    <color name="Edit_text">#ffff</color>
+    <color name="colorPrimary">#3E2723</color>
+    <color name="colorPrimaryDark">#1b0000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="arkaplan">#FACECECE</color>
+    <color name="gorseller">#FFFFFF</color>
+
+</resources>
