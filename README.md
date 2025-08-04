@@ -4,6 +4,9 @@ Kullanıcının adını girdiğinde ekranda gösteren basit Android uygulaması.
 
 ## 📱 Uygulama Hakkında
 
+<img width="407" height="801" alt="image" src="https://github.com/user-attachments/assets/ffcf3111-8aef-463d-98da-2326edd27a42" />
+<img width="399" height="801" alt="image" src="https://github.com/user-attachments/assets/f717fc70-916b-4ab1-bd5a-c9a01301814c" />
+
 
 
 Bu proje, Android geliştirmeye yeni başlayanlar için hazırlanmış basit bir örnektir. Kullanıcıdan EditText ile ad bilgisi alır ve Button'a tıklandığında bu bilgiyi TextView'da gösterir.
